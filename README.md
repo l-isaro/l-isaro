@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @Leslie Isaro
-- 👀 I’m a Software Engineer
+# 👋 Hi, I'm [Leslie] [Isaro]!
 
+## 🚀 About Me
+I'm a junior developer with a passion for building web applications using React. I'm constantly learning and exploring new front-end technologies to enhance my skills and contribute to exciting projects.
 
+## 🛠️ Technologies & Tools
+- **Frontend:** React, JavaScript, HTML, CSS
+- **Tools:** Git, GitHub, VS Code, npm, Webpack
 
-- 💞️ I love building robust and scalable web applications using the latest technologies and best practices. My primary focus is on creating efficient and user-friendly experiences that meet the needs 
-          of clients and users alike.
-          If you have any exciting projects or collaborations in mind, feel free to reach out!
-- 📫 How to reach me: email me at isaroleslie@gmail.com
+## 🌱 Currently Learning
+- Advanced React concepts
+- State management with Redux
+- Backend basics with Node.js
 
   
 
