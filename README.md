@@ -12,5 +12,7 @@ I'm a junior developer with a passion for building web applications using React.
 - State management with Redux
 - Backend basics with Node.js
 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l-isaro)](https://github.com/anuraghazra/github-readme-stats)
+
   
 
