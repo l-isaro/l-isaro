@@ -13,7 +13,7 @@ I'm a junior developer with a passion for building web applications using React.
 - Backend basics with Node.js
 
 # 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMugisha)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-isaro)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l-isaro)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=l-isaro) 
 
